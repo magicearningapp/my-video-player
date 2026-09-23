@@ -1,0 +1,6 @@
+{
+  "name": "My Video Player",
+  "description": "A high-performance offline local video player optimized for Android with gesture controls, resume playback, and Media3 ExoPlayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
